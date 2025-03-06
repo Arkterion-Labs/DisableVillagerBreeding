@@ -1,0 +1,6 @@
+name: DisableVillagerBreeding
+main: dvillager.breeding.DisableVillagerBreeding
+version: 1.0
+api-version: 1.21
+author: VazarinX
+description: Disables villager breeding
