@@ -1,7 +1,7 @@
 name: DisableVillagerBreeding
 main: dvillager.breeding.DisableVillagerBreeding
-version: 1.0
-api-version: 1.21
-author: VazarinX
+version: 1.1
+api-version: 26.2
+author: Arkterion Labs
+website: https://arkterion.com
 description: Disables villager breeding
-website: https://github.com/VazarinX/Disable-Villager-Breeding
